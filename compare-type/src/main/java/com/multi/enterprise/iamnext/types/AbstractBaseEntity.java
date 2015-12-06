@@ -2,9 +2,6 @@ package com.multi.enterprise.iamnext.types;
 
 import java.util.Date;
 
-import com.multi.enterprise.iamnext.types.location.Address;
-
-
 public abstract class AbstractBaseEntity implements Entity{
 
 	protected int id;
